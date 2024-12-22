@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Anandhasasidharan
 - 👀 I’m interested in machine learning
--I'm ilove ai 
+- python dev
